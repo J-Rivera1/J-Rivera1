@@ -17,7 +17,7 @@ My name is Josal, I am an IT professional who is looking for a career in cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Compliance and Control               | <a href="README.md"> Security Compliance Lab</a>|
+| Compliance and Control               | <a href="https://github.com/J-Rivera1/Security-Compliance-Lab"> Security Compliance Lab</a>|
 | Alerts, logs and rules with suricata          | <a href="Examine alerts, logs, and rules with Suricata.txt"> Suricata Lab</a>|
 | Python Conditional Statements | <a href="LAB_Activity_CreateAConditionalStatement-Copy1.pdf"> Python Lab</a>|
 | Security Incident handling         | <a href="Security Incident handler's journal Entry 1.pdf"> Security Lab</a>|
