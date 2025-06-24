@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-# Cybersecurity-Portfolio
+*Future Cybersecurity Analyst*
 
-Future Cybersecurity Analyst
-
-# Hello, I'm Josal
+# Hello, My name is Josal
 <a href="https://www.linkedin.com/in/josalr1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 My name is Josal, I am an IT professional who is looking for a career in cybersecurity.
