@@ -8,8 +8,7 @@
 My name is Josal, I am an IT professional who is looking for a career in cybersecurity.
 ## Objective
 
-
- I am a IT Technician who is looking to expand my knowledge and expertise into the cybersecurity field. specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am seeking an entry-level role in cybersecurity within a Security Operations Center (SOC). I like to  apply foundational knowledge in network security, incident response, and threat analysis to help monitor, detect, and respond to cybersecurity threats in real-time. Committed to continuous learning, security best practices, and contributing to a team-focused environment to protect organizational assets.
 
 ## Skills
 
