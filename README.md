@@ -28,6 +28,8 @@ I am seeking an entry-level role in cybersecurity within a Security Operations C
 <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 
 </div>
 
