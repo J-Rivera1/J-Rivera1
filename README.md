@@ -18,7 +18,7 @@ My name is Josal, I am an IT professional who is looking for a career in cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Compliance and Control               | <a href="https://github.com/J-Rivera1/Security-Compliance-Lab"> Security Compliance Lab</a>|
-| Filter with AND, OR, and NOT lab         | <a href="https://github.com/J-Rivera1/Cybersecurity-Portfolio/blob/main/Filter%20with%20AND,%20OR,%20and%20NOT%20lab.txt"> Filters Lab</a>|
+| Create an SQL query         | <a href="https://github.com/J-Rivera1/Cybersecurity-Portfolio/blob/main/Perform%20a%20SQL%20Query%20Lab.txt"> SQL Lab</a>|
 | Python Conditional Statements | <a href="https://github.com/J-Rivera1/Cybersecurity-Portfolio/blob/main/LAB_Activity_CreateAConditionalStatement-Copy1.pdf"> Python Lab</a>|
 | Security Incident handling         | <a href="Security Incident handler's journal Entry 1.pdf"> Security Lab</a>|
 | Linux file permissions      | <a href="Linux file permissions activity.png"> Linux Lab|
