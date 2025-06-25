@@ -19,7 +19,7 @@ I am seeking an entry-level role in cybersecurity within a Security Operations C
 | Python Conditional Statements | <a href="https://github.com/J-Rivera1/Cybersecurity-Portfolio/blob/main/LAB_Activity_CreateAConditionalStatement-Copy1.pdf"> Python Lab</a>|
 | Security Incident handling         | <a href="https://github.com/J-Rivera1/Security-Incident-handler-s-journal-Entry/blob/main/README.md"> Security Lab</a>|
 | Linux file permissions      | <a href="Linux file permissions activity.png"> Linux Lab|
-| Import and Parse in Python      | <a href="Linux file permissions activity.png"> Python Lab|
+| Import and Parse in Python      | <a href="https://github.com/J-Rivera1/Cybersecurity-Portfolio/blob/main/Activity_Import%20and%20parse%20a%20text%20file.pdf"> Python Lab|
 
 
 ## Tools
