@@ -37,8 +37,9 @@ I am seeking an entry-level role in cybersecurity within a Security Operations C
 
 ## Certifications
 
-[![Credly Badge](https://images.credly.com/size/340x340/images/7f64e30c-c749-49ea-a4f1-cdbb93f1a99e/image.png)] [https://www.credly.com/badges/7f64e30c-c749-49ea-a4f1-cdbb93f1a99e](https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
-<div>
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/josalr1/details/certifications/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn%20Certifications Link-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
