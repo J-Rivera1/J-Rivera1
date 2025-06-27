@@ -37,7 +37,7 @@ I am seeking an entry-level role in cybersecurity within a Security Operations C
 
 ## Certifications
 
-<a href="https://www.coursera.org/professional-certificates/google-cybersecurity" target="_blank">
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/V86SO92JUWJY"_blank">
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/josalr1/details/certifications/" target="_blank">
