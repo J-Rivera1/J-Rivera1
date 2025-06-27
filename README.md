@@ -36,6 +36,8 @@ I am seeking an entry-level role in cybersecurity within a Security Operations C
 </div>
 
 ## Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7f64e30c-c749-49ea-a4f1-cdbb93f1a99e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div>
 <a href="https://www.linkedin.com/in/josalr1/details/certifications/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn%20Certifications Link-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
